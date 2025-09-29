@@ -1,0 +1,27 @@
+Hello {{first_name}},
+
+Welcome to Week 1 of Fortran for Scientific Computing.
+
+Welcome! Mag Selwa, Jan Ooghe, Wouter Van Assche and Geert Jan Bex will be your
+educators on this course.
+
+In this first week, we will help you set up your environment so you can use all
+the tools and libraries discussed in this course. We provide you with
+instructions on how to set up the required software on Windows, MacOS and
+Linux.
+
+Then we will concentrate on writing our very first Fortran application, and
+learning the basics of the language.
+
+All the material required for Week 1 are already available on the course GitHub
+repository.
+
+We look forward to your comments and thoughts, and we hope you will enjoy the
+course.
+
+Geert Jan Bex*
+Jan Ooghe^
+Mag Selwa^
+Wouter Van Assche^
+
+HPC Analysts/Consultants Hasselt University* and University of Leuven^

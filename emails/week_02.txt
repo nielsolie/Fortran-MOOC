@@ -1,0 +1,22 @@
+Hello {{first_name}},
+
+Welcome to Week 2 of Fortran for Scientific Computing.
+
+We hope you enjoyed the first week of our course and you found it interesting.
+We enjoyed seeing so many people participating, posting comments, and sharing
+opinions about the various topics.
+
+In Week 2 we will cover arrays, the mainstay of many scientific applications.
+We will also discuss procedures in more detail and discuss some more control
+flow statements. Finally, we will also delve into file I/O and formatting.
+
+Remember that the capstone exercises are your best learning opportunity.
+
+We encourage you to keep participating in the discussions
+
+Geert Jan Bex*
+Jan Ooghe^
+Mag Selwa^
+Wouter Van Assche^
+
+HPC Analysts/Consultants Hasselt University* and University of Leuven^

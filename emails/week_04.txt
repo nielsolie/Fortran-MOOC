@@ -1,0 +1,29 @@
+Hello {{first_name}},
+
+Welcome to Week 4 of Fortran for Scientific Computing.
+
+Last week you learned how to do object-oriented programming in Fortran. We hope
+that you found it interesting.
+
+In week 4 you will learn a bit more on software engineering aspects of Fortran
+programming. We will discuss programming best practices, but more excitingly,
+we will talk about performance.
+
+You will learn to use a profiler to identify performance bottlenecks in your
+code. However, you will also learn about how the hardware architecture of
+modern CPUs and systems influences performance, and how you, as a programmer,
+can exploit this.
+
+All the material you need for Week 4 are already available on the GitHub
+repository.
+
+As always we encourage you to keep participating in the discussions as we are
+really enjoying your anecdotes and programming stories and learning from you
+all.
+
+Geert Jan Bex*
+Jan Ooghe^
+Mag Selwa^
+Wouter Van Assche^
+
+HPC Analysts/Consultants Hasselt University* and University of Leuven^

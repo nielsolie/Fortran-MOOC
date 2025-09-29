@@ -1,0 +1,24 @@
+Hello {{first_name}},
+
+Welcome to Week 3 of Fortran for Scientific Computing.
+
+We hope you found the second week of our course interesting and enjoyable.
+
+In Week 3 you will learn about object-oriented programming in Fortran. First,
+we will discuss user-defined types, laying the foundations. To structure your
+code and make it more reusable, modules are a very important concept. We will
+also discuss dynamic memory management and pointers so you can build useful
+data structures. Finally, we will discuss type-bound procedures, classes, and
+inheritance.
+
+All the material required for Week 3 is already available on the GitHub
+repository.
+
+We encourage you to keep participating in the discussions.
+
+Geert Jan Bex*
+Jan Ooghe^
+Mag Selwa^
+Wouter Van Assche^
+
+HPC Analysts/Consultants Hasselt University* and University of Leuven^

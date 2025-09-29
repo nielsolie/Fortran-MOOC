@@ -1,0 +1,23 @@
+Hello {{first_name}},
+
+You have reached the end of this journey into Fortran for Scientific
+Computing. We hope you enjoyed the course and learned a lot about Fortran.
+
+We would like to thank you for your participation and engagement throughout the
+course. Your dedication and enthusiasm made this learning experience truly
+enjoyable.
+
+We would greatly appreciate it if you could take a few minutes to provide us
+with your feedback on the course. Your insights and suggestions will help us
+improve future iterations of the course and better meet the needs of our
+learners. You can find the feedback form here: [Feedback Form Link].
+
+Thank you once again for being a part of this learning journey. We wish you all
+the best in your future endeavors and hope to see you in future courses.
+
+Geert Jan Bex*
+Jan Ooghe^
+Mag Selwa^
+Wouter Van Assche^
+
+HPC Analysts/Consultants Hasselt University* and University of Leuven^

@@ -1,0 +1,28 @@
+Hello {{first_name}},
+
+Welcome to the MOOC on Fortran for Scientific Computing. Mag Selwa, Jan Ooghe,
+Wouter Van Assche and Geert Jan Bex will be your
+educators on this course.
+
+We hope that you will enjoy the course and learn a lot about Fortran, one of the
+most widely used programming languages in scientific and high-performance
+computing.
+
+In this course, you will discover the Fortran language, from the very basics
+to more advanced topics such as modules, derived types, pointers and dynamic
+memory allocation, and object-oriented programming. You will also learn about
+libraries and tools commonly used in scientific computing for linear algebra
+and data storage.
+
+We will be happy to interact with you on the discussion forum, and help you
+with any questions you may have.
+
+We look forward to your comments and thoughts, and we hope you will enjoy the
+course.
+
+Geert Jan Bex*
+Jan Ooghe^
+Mag Selwa^
+Wouter Van Assche^
+
+HPC Analysts/Consultants Hasselt University* and University of Leuven^

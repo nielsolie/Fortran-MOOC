@@ -1,0 +1,27 @@
+Hello {{first_name}},
+
+Welcome to Week 5 of Fortran for Scientific Computing.
+
+During last week you learned what influences the performance of your code, and
+how to best exploit modern hardware.
+
+In this last week, we will introduce you to some libraries that are pervasive
+in scientific computing. Being familiar with those will save you a lot of time
+and ensure that your application are built on a solid computational foundation.
+
+We will discuss libraries for linear algebra, as well as HDF5, a library/file
+format to store scientific data.
+
+Finally, you will get an overview of the options for parallel programming in
+Fortran. This is but a brief introduction, and we encourage you to register for
+additional courses on this topic offered by PRACE.
+
+All the material needed for Week 5 is already available on the MOOC GitHub
+repository.
+
+Geert Jan Bex*
+Jan Ooghe^
+Mag Selwa^
+Wouter Van Assche^
+
+HPC Analysts/Consultants Hasselt University* and University of Leuven^
